@@ -1,0 +1,19 @@
+.container{
+	width: 60%;
+	height: 165px;
+	border: 6px solid skyblue;
+
+
+}
+.left{
+	width: 15%;
+	height: 160px;
+	background-color: red;
+	float: left;
+}
+.right{
+	width: 85%;
+	height: 160px;
+	background-color: black;
+	float: left;
+}

@@ -1,0 +1,30 @@
+.container{
+
+width :"60%";
+height: 70px;
+background-color: "";
+  }
+.left{
+	width :20%;
+	height:66px;
+	border: 1px solid yellow;
+	float:left;
+
+}
+.two{
+	width:20%;
+	height:66px;
+	border:1px solid red;
+	float:left;
+	background-color: "";
+
+}
+.right{
+	width:20%;
+	height:66px;
+	background-color: green;
+	border: 1px solid black;
+	float:left;
+
+
+}

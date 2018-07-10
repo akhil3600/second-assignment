@@ -1,0 +1,35 @@
+
+
+
+
+.container{
+ width: 80%;
+ height: 210px;
+ background-color: "white";
+ border: 1px solid black;
+ 	margin-left: 200px;
+
+}
+.left{
+	background-color:blue;
+	width: 30%;
+	height: 200px;
+	float: left;
+	border: 4px dotted black;
+	margin-right: 10px;
+	margin-left:3px;
+
+}
+.right{
+	background-color:green;
+	width: 30%;
+	height: 200px;
+	float: left;
+	border: 4px dotted blue;
+}
+.one{
+	background-color: "white";
+	width: 30%
+	height:200px;
+
+}

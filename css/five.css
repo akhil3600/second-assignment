@@ -1,0 +1,35 @@
+.container{
+	width: 40%;
+	height:200px;
+	border: 4px solid black;
+
+}
+.one{
+	width: 20%;
+	height:200px;
+	background-color: red;
+	float: left;
+
+}
+.two{
+	width:20%;
+	height: 200px;
+	background-color: red;
+	margin-left: 40px;
+	float: left;
+
+}
+.three{
+	width: 20%;
+	height: 200px;
+	background-color: red;
+	margin-left: 40px;
+	float: left;
+}
+.four{
+	width: 16%;
+	height: 200px;
+	background-color: red;
+	margin-left: 40px;
+	float: left;
+}
